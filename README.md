@@ -1,5 +1,5 @@
 # Baraa
-builder. trader. always shipping something.
+builder. developer. always shipping something.
 
 ---
 
