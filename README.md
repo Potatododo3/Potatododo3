@@ -45,8 +45,9 @@ Minecraft plugin that lets players track targets on a compass via /settarget.
 ---
 
 <a href="https://github.com/Potatododo3">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Potatododo3&show_icons=true&hide_border=true&title_color=888&text_color=888&icon_color=888&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potatododo3&layout=compact&hide_border=true&title_color=888&text_color=888&bg_color=00000000" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Potatododo3&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Potatododo3)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Potatododo3&layout=compact)
 </a>
 
 ---
