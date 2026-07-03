@@ -23,7 +23,7 @@ Windows folder-locking GUI app built with customtkinter and packaged via PyInsta
 `Python` `customtkinter` `PyInstaller`
 
 **[AutoTradingBYBIT](https://github.com/Potatododo3/AutoTradingBYBIT) / [AutoTradingBITUNIX](https://github.com/Potatododo3/AutoTradingBITUNIX)**
-Automated trading bots for Bybit and Bitunix. Monitors positions, executes orders, and handles signals.
+Private automated trading bots for Bybit and Bitunix. Monitors positions, executes orders, and handles signals.
 `Python` `REST API` `WebSocket`
 
 **[CandleCloseBot](https://github.com/Potatododo3/CandleCloseBot)**
